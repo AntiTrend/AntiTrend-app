@@ -6,6 +6,7 @@ It enables users to block fast-fashion and non-ethical brands according to their
 
 AntiTrend is being developed as a flexible parent platform that may support apps, browser extensions, and ethical commerce tools over time.
 
+
 More coming soon.
 
 🌐 https://antitrend.org
