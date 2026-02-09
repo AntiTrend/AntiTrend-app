@@ -11,4 +11,4 @@ More coming soon.
 
 🌐 https://antitrend.org
 ## Roadmap
-See [ROADMAP.md](./ROADMAP.md)
+See the product roadmap → [ROADMAP.md](./ROADMAP.md)
