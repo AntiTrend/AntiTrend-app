@@ -10,3 +10,5 @@ AntiTrend is being developed as a flexible parent platform that may support apps
 More coming soon.
 
 🌐 https://antitrend.org
+## Roadmap
+See [ROADMAP.md](./ROADMAP.md)
