@@ -1,14 +1,22 @@
 # AntiTrend
 
-AntiTrend is a consumer-first platform designed to help people take control of what they buy.
+AntiTrend is a Chrome extension designed to filter fast-fashion retailers, mass marketplaces, and sponsored shopping clutter from search and browsing results.
 
-It enables users to block fast-fashion and non-ethical brands according to their own values — on their terms.
+The goal is simple: support a more intentional online shopping experience.
 
-AntiTrend is being developed as a flexible parent platform that may support apps, browser extensions, and ethical commerce tools over time.
+## Now Live
 
+🌐 Website: https://antitrend.org  
+🧩 Chrome Web Store: https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin  
 
-More coming soon.
+Currently available for Chrome desktop browsers.
 
-🌐 https://antitrend.org
-## Roadmap
-See the product roadmap → [ROADMAP.md](./ROADMAP.md)
+## What AntiTrend does
+
+- Filters fast fashion retailers  
+- Reduces shopping clutter in search results  
+- Supports more intentional browsing  
+
+## Early Stage Release
+
+This is the first public version of AntiTrend and it will continue to evolve with real user feedback.
