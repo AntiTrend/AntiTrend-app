@@ -6,8 +6,24 @@ The goal is simple: support a more intentional online shopping experience.
 
 ## Now Live
 
+
+## Update — Version 1.6
+
+AntiTrend Filter v1.6 introduces a more useful popup experience.
+
+New features:
+- Visible blocked brand list
+- Toggle controls for preset brands
+- Custom domain filtering
+- Custom keyword filtering
+
+Goal: create a cleaner, more intentional Google shopping experience.
+
+Still early. Actively improving.
+
 🌐 Website: https://antitrend.org  
-🧩 Chrome Web Store: https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin  
+
+🧩 Chrome Web Store: https://chromewebstore.google.com/detail/antitrend-    filter/idonkhogbeapeekaklegfnbcknbpbpin  
 
 Currently available for Chrome desktop browsers.
 
