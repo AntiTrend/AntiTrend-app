@@ -6,6 +6,14 @@ The goal is simple: support a more intentional online shopping experience.
 
 ## Now Live
 
+## Latest Update (v1.6)
+
+- Improved visibility into what retailers    are being filtered  
+- Early customization controls added  
+- General performance improvements  
+
+Early traction: 23 installs and growing.
+
 
 ## Update — Version 1.6
 
