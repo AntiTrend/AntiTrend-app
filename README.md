@@ -31,7 +31,7 @@ Still early. Actively improving.
 
 🌐 Website: https://antitrend.org  
 
-🧩 Chrome Web Store: https://chromewebstore.google.com/detail/antitrend-    filter/idonkhogbeapeekaklegfnbcknbpbpin  
+🧩 Chrome Web Store: https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin
 
 Currently available for Chrome desktop browsers.
 
