@@ -7,7 +7,7 @@ Search the internet on your terms.
 ## Now Live
 Available on Chrome Web Store (v1.6):
 
-[Install AntiTrend] (https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
+[Install AntiTrend](https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
 
 ## Latest Update (v1.6)
 
@@ -15,7 +15,7 @@ Available on Chrome Web Store (v1.6):
 - Early customization controls added  
 - General performance improvements  
 
-Early traction: 36+ installs in early release.
+Early traction: 36+ installs in early release, growing steadily.
 
 AntiTrend Filter v1.6 introduces a more useful popup experience.
 
