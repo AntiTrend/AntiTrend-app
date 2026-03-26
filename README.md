@@ -1,10 +1,12 @@
 # AntiTrend
 
-AntiTrend is a Chrome extension designed to filter fast-fashion retailers, mass marketplaces, and sponsored shopping clutter from search and browsing results.
+AntiTrend is a Chrome extension that filters fast-fashion, massmarket retailers, and sponsored results from Google search and shopping.
 
-The goal is simple: support a more intentional online shopping experience.
+Search the internet on your terms.
 
 ## Now Live
+Available on Chrome Web Store (v1.6)
+https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin
 
 ## Latest Update (v1.6)
 
@@ -12,8 +14,7 @@ The goal is simple: support a more intentional online shopping experience.
 - Early customization controls added  
 - General performance improvements  
 
-Early traction: 23 installs and growing.
-
+Early traction: 36+ installs in early release.
 
 ## Update — Version 1.6
 
