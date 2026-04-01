@@ -1,10 +1,10 @@
-AntiTrend
+## AntiTrend
 
 AntiTrend is a Chrome extension that filters fast-fashion, mass-market retailers, and sponsored results from Google search and shopping.
 
-Search the internet on your terms.
+**Search the internet on your terms.**
 
-Now Live
+## Now Live
 
 Available on Chrome Web Store (v1.7.1):
 
@@ -12,30 +12,30 @@ Install AntiTrend￼
 
 No account required. Works instantly.
 
-Latest Update (v1.7.1)
+## Latest Update (v1.7.1)
 
 AntiTrend v1.7.1 improves filtering reliability and expands user control.
-	•	Expanded control over filtered brands and keywords
-	•	Improved accuracy across Google search and shopping results
-	•	UI improvements to the extension popup
-	•	Performance and stability improvements
+	-	Expanded control over filtered brands and keywords
+	-	Improved accuracy across Google search and shopping results
+	-	UI improvements to the extension popup
+	-	Performance and stability improvements
 
-Early traction: 40+ installs in early release, growing steadily.
+**Early traction:** 40+ installs in early release, growing steadily.
 
-Previous Update (v1.6)
-	•	Improved visibility into what retailers are being filtered
-	•	Early customization controls added
-	•	General performance improvements
+## Previous Update (v1.6)
+	-	Improved visibility into what retailers are being filtered
+	-	Early customization controls added
+	-	General performance improvements
 
 AntiTrend v1.6 introduced:
-	•	Visible blocked brand list
-	•	Toggle controls for preset brands
-	•	Custom domain filtering
-	•	Custom keyword filtering
+	-	Visible blocked brand list
+	-	Toggle controls for preset brands
+	-	Custom domain filtering
+	-	Custom keyword filtering
 
 🌐 Website: https://antitrend.org
 
-🧩 Chrome Web Store: https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin
+🧩 [Install AntiTrend] (https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
 
 Currently available for Chrome desktop browsers.
 
