@@ -23,27 +23,27 @@ AntiTrend v1.7.1 improves filtering reliability and expands user control.
 **Early traction:** 40+ installs in early release, growing steadily.
 
 ## Previous Update (v1.6)
-	-	Improved visibility into what retailers are being filtered
-	-	Early customization controls added
-	-	General performance improvements
+	- Improved visibility into what retailers are being filtered
+	- Early customization controls added
+	- General performance improvements
 
 AntiTrend v1.6 introduced:
-	-	Visible blocked brand list
-	-	Toggle controls for preset brands
-	-	Custom domain filtering
-	-	Custom keyword filtering
+	- Visible blocked brand list
+	- Toggle controls for preset brands
+	- Custom domain filtering
+	- Custom keyword filtering
 
 🌐 Website: https://antitrend.org
 
-🧩 [Install AntiTrend] (https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
+🧩 [Install AntiTrend](https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
 
 Currently available for Chrome desktop browsers.
 
 What AntiTrend does
-	•	Filters fast fashion retailers and marketplaces
-	•	Removes sponsored and low-quality results
-	•	Gives you control over what appears in your search
+	- Filters fast fashion retailers and marketplaces
+	- Removes sponsored and low-quality results
+	- Gives you control over what appears in your search
 
-Early Stage Release
+##Early Stage Release
 
 This is the first public version of AntiTrend and it will continue to evolve with real user feedback.
