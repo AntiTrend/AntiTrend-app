@@ -15,10 +15,10 @@ No account required. Works instantly.
 ## Latest Update (v1.7.1)
 
 AntiTrend v1.7.1 improves filtering reliability and expands user control.
-	-	Expanded control over filtered brands and keywords
-	-	Improved accuracy across Google search and shopping results
-	-	UI improvements to the extension popup
-	-	Performance and stability improvements
+	- Expanded control over filtered brands and keywords
+	- Improved accuracy across Google search and shopping results
+	- UI improvements to the extension popup
+	- Performance and stability improvements
 
 **Early traction:** 40+ installs in early release, growing steadily.
 
@@ -39,7 +39,7 @@ AntiTrend v1.6 introduced:
 
 Currently available for Chrome desktop browsers.
 
-What AntiTrend does
+##What AntiTrend does
 	- Filters fast fashion retailers and marketplaces
 	- Removes sponsored and low-quality results
 	- Gives you control over what appears in your search
