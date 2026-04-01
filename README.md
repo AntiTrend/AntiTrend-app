@@ -1,46 +1,49 @@
-# AntiTrend
+AntiTrend
 
 AntiTrend is a Chrome extension that filters fast-fashion, mass-market retailers, and sponsored results from Google search and shopping.
 
 Search the internet on your terms.
 
-## Now Live
-Available on Chrome Web Store (v1.6):
+Now Live
 
-[Install AntiTrend](https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
+Available on Chrome Web Store (v1.7.1):
 
-## Latest Update (v1.6)
+Install AntiTrend￼
 
-- Improved visibility into what retailers    are being filtered  
-- Early customization controls added  
-- General performance improvements  
+No account required. Works instantly.
 
-Early traction: 36+ installs in early release, growing steadily.
+Latest Update (v1.7.1)
 
-AntiTrend Filter v1.6 introduces a more useful popup experience.
+AntiTrend v1.7.1 improves filtering reliability and expands user control.
+	•	Expanded control over filtered brands and keywords
+	•	Improved accuracy across Google search and shopping results
+	•	UI improvements to the extension popup
+	•	Performance and stability improvements
 
-New features:
-- Visible blocked brand list
-- Toggle controls for preset brands
-- Custom domain filtering
-- Custom keyword filtering
+Early traction: 40+ installs in early release, growing steadily.
 
-Goal: create a cleaner, more intentional Google shopping experience.
+Previous Update (v1.6)
+	•	Improved visibility into what retailers are being filtered
+	•	Early customization controls added
+	•	General performance improvements
 
-Still early. Actively improving.
+AntiTrend v1.6 introduced:
+	•	Visible blocked brand list
+	•	Toggle controls for preset brands
+	•	Custom domain filtering
+	•	Custom keyword filtering
 
-🌐 Website: https://antitrend.org  
+🌐 Website: https://antitrend.org
 
 🧩 Chrome Web Store: https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin
 
 Currently available for Chrome desktop browsers.
 
-## What AntiTrend does
+What AntiTrend does
+	•	Filters fast fashion retailers and marketplaces
+	•	Removes sponsored and low-quality results
+	•	Gives you control over what appears in your search
 
-- Filters fast fashion retailers  
-- Reduces shopping clutter in search results  
-- Supports more intentional browsing  
-
-## Early Stage Release
+Early Stage Release
 
 This is the first public version of AntiTrend and it will continue to evolve with real user feedback.
