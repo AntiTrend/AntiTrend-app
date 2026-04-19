@@ -33,7 +33,7 @@ AntiTrend now includes a subtle feedback banner to help improve the product base
 
 This keeps the experience clean while giving users an easy way to provide feedback when it matters most.
 
-## Latest Update (v1.7.1)
+## Previous Update (v1.7.1)
 
 AntiTrend v1.7.1 improves filtering reliability and expands user control.
 - Expanded control over filtered brands and keywords
