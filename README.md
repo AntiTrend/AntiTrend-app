@@ -12,6 +12,27 @@ Install AntiTrend￼
 
 No account required. Works instantly.
 
+## What's New in v1.8.0
+
+### 🆕 Feedback Banner (Lightweight + Non-Intrusive)
+
+AntiTrend now includes a subtle feedback banner to help improve the product based on real user experience — without interrupting your browsing.
+
+**How it works:**
+- Appears at the **bottom of the page**
+- Only shows when AntiTrend has **filtered at least one result**
+- Displays **once per day** per user
+- Includes a **“Share feedback”** link to a Google Form
+- Can be dismissed with an **✕ close button**
+
+**Under the hood:**
+- Triggered inside `filterResults()` when `blockedCount > 0`
+- Uses `localStorage` to track the last shown date
+- Prevents duplicate banners with `getElementById`
+- Delayed by **2 seconds** using `setTimeout` to allow search results to fully render before displaying
+
+This keeps the experience clean while giving users an easy way to provide feedback when it matters most.
+
 ## Latest Update (v1.7.1)
 
 AntiTrend v1.7.1 improves filtering reliability and expands user control.
