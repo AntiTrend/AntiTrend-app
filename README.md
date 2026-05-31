@@ -1,6 +1,6 @@
-## AntiTrend
+# AntiTrend
 
-AntiTrend is a Chrome extension that filters fast-fashion, mass-market retailers, and sponsored results from Google search and shopping.
+AntiTrend is a Chrome extension that filters fast-fashion retailers, mass-market retailers, and sponsored results from Google Search and Google Shopping.
 
 **Search the internet on your terms.**
 
@@ -20,13 +20,12 @@ No account required. Works instantly.
 
 ### Feedback Banner Improvements
 
-AntiTrend v1.8.1 updates the feedback banner experience to make user feedback easier to collect without interrupting browsing.
+AntiTrend v1.8.1 improves the feedback experience while keeping browsing uninterrupted.
 
 **v1.8.1 Updates**
-- Updated the feedback banner wording
-- Changed banner behavior so it remains visible until dismissed
-- Banner no longer disappears based on daily display timing alone
-- Users can close the banner manually when they choose
+- Updated feedback banner wording
+- Banner remains visible until manually dismissed
+- Users can close the banner whenever they choose
 - Continued refinement of real-world feedback collection
 
 ## Previous Update (v1.8.0)
@@ -40,52 +39,23 @@ AntiTrend v1.8.1 updates the feedback banner experience to make user feedback ea
 - Added duplicate banner prevention
 - Added delayed display after page load for a smoother experience
 
-## What's New in v1.8.0
-
-### 🆕 Feedback Banner (Lightweight + Non-Intrusive)
-
-AntiTrend now includes a subtle feedback banner to help improve the product based on real user experience — without interrupting your browsing.
-
-**How it works:**
-- Appears at the **bottom of the page**
-- Only shows when AntiTrend has **filtered at least one result**
-- Displays **once per day** per user
-- Includes a **“Share feedback”** link to a Google Form
-- Can be dismissed with an **✕ close button**
-
-**Under the hood:**
-- Triggered inside `filterResults()` when `blockedCount > 0`
-- Uses `localStorage` to track the last shown date
-- Prevents duplicate banners with `getElementById`
-- Delayed by **2 seconds** using `setTimeout` to allow search results to fully render before displaying
-
-This keeps the experience clean while giving users an easy way to provide feedback when it matters most.
-
 ## Previous Update (v1.7.1)
 
-AntiTrend v1.7.1 improves filtering reliability and expands user control.
+AntiTrend v1.7.1 improved filtering reliability and expanded user control.
+
 - Expanded control over filtered brands and keywords
-- Improved accuracy across Google search and shopping results
+- Improved accuracy across Google Search and Google Shopping results
 - UI improvements to the extension popup
 - Performance and stability improvements
 
-**Early traction:** 40+ installs in early release, growing steadily.
+## What AntiTrend Does
 
-## Previous Update (v1.6)
-- Improved visibility into what retailers are being filtered
-- Early customization controls added
-- General performance improvements
-
-AntiTrend v1.6 introduced:
-- Visible blocked brand list
-- Toggle controls for preset brands
-- Custom domain filtering
-- Custom keyword filtering
-
-## What AntiTrend does
-- Filters fast fashion retailers and marketplaces
+- Filters fast-fashion retailers and marketplaces
 - Removes sponsored and low-quality results
-- Gives you control over what appears in your search
+- Filters unwanted Google Shopping results
+- Supports custom domain filtering
+- Supports custom keyword filtering
+- Gives users direct control over what appears in search results
 
 ## Growing With User Feedback
 
