@@ -92,6 +92,6 @@ Currently available for Chrome desktop browsers.
 - Removes sponsored and low-quality results
 - Gives you control over what appears in your search
 
-## Early Stage Release
+## Growing With User Feedback
 
-This is the first public version of AntiTrend and it will continue to evolve with real user feedback.
+AntiTrend continues to evolve through real-world usage and user feedback. New filtering capabilities and quality-of-life improvements are released regularly as the product grows.
