@@ -10,10 +10,8 @@ Available on Chrome Web Store (v1.8.1)
 
 🚀 **146 downloads and growing**
 
-Install AntiTrend
-
 No account required. Works instantly.
-Install AntiTrend￼
+Install AntiTrend￼http://www.antitrend.org
 
 ## What's New in v1.8.1
 
