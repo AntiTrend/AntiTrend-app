@@ -12,6 +12,30 @@ Install AntiTrend￼
 
 No account required. Works instantly.
 
+## What's New in v1.8.1
+
+### Feedback Banner Improvements
+
+AntiTrend v1.8.1 updates the feedback banner experience to make user feedback easier to collect without interrupting browsing.
+
+**v1.8.1 Updates**
+- Updated the feedback banner wording
+- Changed banner behavior so it remains visible until dismissed
+- Banner no longer disappears based on daily display timing alone
+- Users can close the banner manually when they choose
+- Continued refinement of real-world feedback collection
+
+## Previous Update (v1.8.0)
+
+### Feedback Banner Launch
+
+- Added feedback banner after AntiTrend filters results
+- Added Share Feedback link
+- Added dismiss button
+- Added localStorage tracking
+- Added duplicate banner prevention
+- Added delayed display after page load for a smoother experience
+
 ## What's New in v1.8.0
 
 ### 🆕 Feedback Banner (Lightweight + Non-Intrusive)
