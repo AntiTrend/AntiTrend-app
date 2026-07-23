@@ -1,6 +1,6 @@
 # AntiTrend
 
-AntiTrend is a Chrome extension that filters fast-fashion retailers, mass-market retailers, and sponsored results from Google Search and Google Shopping.
+AntiTrend is a browser extension for Chrome and Safari on macOS that filters fast-fashion retailers, mass-market retailers, and sponsored results from Google Search and Google Shopping.
 
 **Search the internet on your terms.**
 
@@ -8,13 +8,21 @@ AntiTrend is a Chrome extension that filters fast-fashion retailers, mass-market
 
 🌐 Website: https://antitrend.org
 
-Available on Chrome Web Store (v1.8.1)
+Available on Chrome Web Store and Mac App Store.
 
 🚀 **180+ downloads and growing**
 
-🧩 [Install AntiTrend](https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
+🧩 [Install for Chrome](https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
+
+🍎 [Install for Safari on macOS](https://apps.apple.com/us/app/antitrend-filter/id6781495490?mt=12)
 
 No account required. Works instantly.
+
+## Launch Status
+
+- Chrome Web Store: live
+- Safari for macOS: live on the Mac App Store
+- Website: https://antitrend.org
 
 ## What's New in v1.8.1
 
