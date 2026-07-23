@@ -10,7 +10,7 @@ AntiTrend is a browser extension for Chrome and Safari on macOS that filters fas
 
 Available on Chrome Web Store and Mac App Store.
 
-🚀 **180+ downloads and growing**
+🚀 **215+ downloads and growing**
 
 🧩 [Install for Chrome](https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
 
