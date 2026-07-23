@@ -65,6 +65,10 @@ AntiTrend v1.7.1 improved filtering reliability and expanded user control.
 - Supports custom keyword filtering
 - Gives users direct control over what appears in search results
 
+## Support
+
+For support, questions, or feedback, email antitrendapp@gmail.com or visit https://antitrend.org.
+
 ## Growing With User Feedback
 
 AntiTrend continues to evolve through real-world usage and user feedback. New filtering capabilities and quality-of-life improvements are released regularly as the product grows.
