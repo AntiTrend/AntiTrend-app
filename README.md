@@ -1,6 +1,6 @@
 # AntiTrend
 
-AntiTrend is a browser extension for Chrome and Safari on macOS that filters fast-fashion retailers, mass-market retailers, and sponsored results from Google Search and Google Shopping.
+AntiTrend is a browser extension for Chrome and Safari on macOS that filters unwanted retailers and sponsored shopping results from Google Search and Google Shopping.
 
 **Search the internet on your terms.**
 
@@ -10,8 +10,6 @@ AntiTrend is a browser extension for Chrome and Safari on macOS that filters fas
 
 Available on Chrome Web Store and Mac App Store.
 
-🚀 **215+ downloads and growing**
-
 🧩 [Install for Chrome](https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
 
 🍎 [Install for Safari on macOS](https://apps.apple.com/us/app/antitrend-filter/id6781495490?mt=12)
@@ -20,11 +18,35 @@ No account required. Works instantly.
 
 ## Launch Status
 
-- Chrome Web Store: live
-- Safari for macOS: live on the Mac App Store
+- Chrome Web Store: live (public listing currently shows version 1.8.1)
+- Safari for macOS: live on the Mac App Store (version 1.0.1)
 - Website: https://antitrend.org
 
-## What's New in v1.8.1
+Chrome and Safari use separate public version numbers. Safari 1.0.1 contains the shared extension build 1.8.2 (build 2).
+
+## Current Product
+
+AntiTrend currently lets users:
+
+- Turn filtering on or off at any time
+- Choose which retailer categories to filter
+- Control individual retailers within each category
+- Add custom domains
+- Add custom keywords
+- See how many results were filtered from a search
+- Keep preferences locally in the browser
+
+AntiTrend does not require an account and does not collect personal browsing data.
+
+## Recent Releases
+
+### Safari for macOS 1.0.1
+
+- Improved toolbar-icon visibility in both Light and Dark Mode
+- Refreshed the Mac App Store screenshots
+- Uses shared extension build 1.8.2 (build 2)
+
+### Chrome 1.8.1
 
 ### Feedback Banner Improvements
 
@@ -36,7 +58,7 @@ AntiTrend v1.8.1 improves the feedback experience while keeping browsing uninter
 - Users can close the banner whenever they choose
 - Continued refinement of real-world feedback collection
 
-## Previous Update (v1.8.0)
+### Chrome 1.8.0
 
 ### Feedback Banner Launch
 
@@ -47,7 +69,7 @@ AntiTrend v1.8.1 improves the feedback experience while keeping browsing uninter
 - Added duplicate banner prevention
 - Added delayed display after page load for a smoother experience
 
-## Previous Update (v1.7.1)
+### Chrome 1.7.1
 
 AntiTrend v1.7.1 improved filtering reliability and expanded user control.
 
@@ -72,3 +94,5 @@ For support, questions, or feedback, email antitrendapp@gmail.com or visit https
 ## Growing With User Feedback
 
 AntiTrend continues to evolve through real-world usage and user feedback. New filtering capabilities and quality-of-life improvements are released regularly as the product grows.
+
+See the [public roadmap](ROADMAP.md) for the current direction.

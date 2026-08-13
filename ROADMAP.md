@@ -1,8 +1,8 @@
-ROADMAP.md
 # AntiTrend Roadmap
 
-AntiTrend helps people block fast-fashion and non-ethical shopping — on their terms.
-This roadmap is intentionally lean to keep v1 calm, useful, and shippable.
+AntiTrend gives people direct control over which retailers and shopping results appear in Google Search and Google Shopping.
+
+Chrome and Safari for macOS are now live. This roadmap reflects the current product rather than the original pre-launch plan.
 
 ## Product principles (guardrails)
 - User-controlled > algorithm-controlled
@@ -12,80 +12,57 @@ This roadmap is intentionally lean to keep v1 calm, useful, and shippable.
 
 ---
 
-## v0: Definition + scaffolding (now)
-**Goal:** Make the product buildable without expanding scope.
+## Shipped
 
-- [ ] Define the single core action (“The main thing a user does is ___”)
-- [ ] Confirm platform approach for v1 (choose one):
-  - [ ] Mobile app only (manual list + share sheet)
-  - [ ] Browser extension only (blocklist/allowlist)
-  - [ ] Hybrid later (not now)
-- [ ] Create initial data model:
-  - [ ] Brand
-  - [ ] Retailer / domain
-  - [ ] Category tags (fast-fashion, labor, materials, etc.)
-  - [ ] User rules (block/allow/exception)
-- [ ] Set up repo basics (README, CONTRIBUTING, ISSUE templates)
-
-Deliverable: a one-page Product Brief + repo structure.
+- [x] Chrome extension
+- [x] Safari extension for macOS
+- [x] Filtering on Google Search and Google Shopping
+- [x] Category-level controls
+- [x] Individual retailer controls
+- [x] Custom domain filtering
+- [x] Custom keyword filtering
+- [x] Filtered-result count in the toolbar
+- [x] Local browser preferences
+- [x] No account requirement
+- [x] Public website and store listings
 
 ---
 
-## v1: MVP (Block + Control) ✅
-**Goal:** A user can set boundaries and the app enforces them.
+## Now: Reliability + clarity
 
-### Onboarding + Rules
-- [ ] Create “values / boundaries” onboarding (short, skippable)
-- [ ] Rule types:
-  - [ ] Block brand
-  - [ ] Block retailer/domain
-  - [ ] Allow exceptions (whitelist)
-- [ ] Import/export rules (basic JSON or simple file)
+**Goal:** Make the live product feel consistent, understandable, and dependable across both browsers.
 
-### Blocking behavior
-- [ ] Clear definition of “blocked” experience:
-  - [ ] Hide results
-  - [ ] Warn + require confirm
-  - [ ] Hard block (if supported by platform)
-- [ ] Minimal, calm UX copy (“This is blocked by your rules”)
-
-### Transparency
-- [ ] “Why am I seeing this?” (shows the rule that triggered)
-- [ ] Activity log (optional, private)
-
-Deliverable: working MVP that enforces user-defined rules.
+- [ ] Continue testing against Google Search and Google Shopping changes
+- [ ] Keep Chrome and Safari filtering behavior aligned
+- [ ] Improve first-use guidance without adding friction
+- [ ] Make filtered-result feedback clearer
+- [ ] Refine the built-in retailer lists using real user feedback
+- [ ] Maintain accurate store screenshots, descriptions, support information, and release notes
 
 ---
 
-## v1.1: Usability + trust
-**Goal:** Make it feel effortless and reliable.
+## Next: Easier rule management
+
+**Goal:** Help users maintain their own filters without making the extension feel complicated.
 
 - [ ] Search + manage blocklist (fast)
 - [ ] Bulk add (paste list of brands/domains)
-- [ ] Suggested starter packs (optional):
-  - [ ] Fast-fashion starter list
-  - [ ] “My personal triggers” pack
-- [ ] Backup/sync (if accounts exist) OR local export reminder
-
-Deliverable: users can maintain their rules without friction.
+- [ ] Import and export custom rules
+- [ ] Optional allow-list exceptions
+- [ ] Clear explanation of which rule filtered a result
+- [ ] Accessibility review of popup controls and status feedback
 
 ---
 
-## v2: Intelligence (only after trust)
+## Later: Opt-in guidance
+
 **Goal:** Help users discover what to block—without taking control.
 
 - [ ] “Looks like fast-fashion?” detection (flag, don’t auto-block)
 - [ ] Evidence panel (sources + links, no moral score)
 - [ ] Alternatives (only if user opts in)
-
-Deliverable: opt-in guidance that respects autonomy.
-
----
-
-## v3: Expansion
-- [ ] Community packs (curated, not chaotic)
-- [ ] Category-level rules (materials, labor, etc.)
-- [ ] Multi-platform parity (mobile + extension)
+- [ ] Carefully curated optional filter packs
+- [ ] Additional platforms only after the browser experience is stable
 
 ---
 
@@ -95,4 +72,4 @@ Deliverable: opt-in guidance that respects autonomy.
 - Gamification / points / streaks
 - Moral “scores” or shaming language
 - Constant push notifications
-
+- Automatic blocking that overrides a user’s choices
