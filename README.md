@@ -10,6 +10,11 @@ AntiTrend is a browser extension for Chrome and Safari on macOS that filters unw
 
 Available on Chrome Web Store and Mac App Store.
 
+🚀 **244 confirmed downloads as of August 13, 2026**
+
+- Chrome: 242
+- Safari for macOS: 2
+
 🧩 [Install for Chrome](https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
 
 🍎 [Install for Safari on macOS](https://apps.apple.com/us/app/antitrend-filter/id6781495490?mt=12)
