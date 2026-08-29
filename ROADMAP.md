@@ -21,6 +21,8 @@ Chrome and Safari for macOS are now live. This roadmap reflects the current prod
 - [x] Individual retailer controls
 - [x] Custom domain filtering
 - [x] Custom keyword filtering
+- [x] Hide individual sellers directly from Google Shopping results
+- [x] Manage and restore hidden sellers from the extension popup
 - [x] Filtered-result count in the toolbar
 - [x] Local browser preferences
 - [x] No account requirement

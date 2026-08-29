@@ -10,9 +10,9 @@ AntiTrend is a browser extension for Chrome and Safari on macOS that filters unw
 
 Available on Chrome Web Store and Mac App Store.
 
-🚀 **244 confirmed downloads as of August 13, 2026**
+🚀 **263 confirmed installs as of August 28, 2026**
 
-- Chrome: 242
+- Chrome: 261
 - Safari for macOS: 2
 
 🧩 [Install for Chrome](https://chromewebstore.google.com/detail/antitrend-filter/idonkhogbeapeekaklegfnbcknbpbpin)
@@ -23,7 +23,7 @@ No account required. Works instantly.
 
 ## Launch Status
 
-- Chrome Web Store: live (public listing currently shows version 1.8.1)
+- Chrome Web Store: live (version 1.8.4)
 - Safari for macOS: live on the Mac App Store (version 1.0.1)
 - Website: https://antitrend.org
 
@@ -38,12 +38,29 @@ AntiTrend currently lets users:
 - Control individual retailers within each category
 - Add custom domains
 - Add custom keywords
+- Hide an individual Google Shopping seller directly from the results
+- Restore hidden sellers from the extension popup
 - See how many results were filtered from a search
 - Keep preferences locally in the browser
 
 AntiTrend does not require an account and does not collect personal browsing data.
 
 ## Recent Releases
+
+### Chrome 1.8.4
+
+### Hide This Seller
+
+- Added a “Hide this seller” control to Google Shopping results
+- Saves hidden sellers with the user's other browser preferences
+- Added a seven-second Undo option after hiding a seller
+- Added a Hidden Sellers list in the popup with a “Show again” control
+- Improved seller and domain matching across Google Shopping listings
+
+### Chrome 1.8.3
+
+- Improved filtering reliability across changing Google Search and Shopping layouts
+- Strengthened retailer and domain matching
 
 ### Safari for macOS 1.0.1
 
